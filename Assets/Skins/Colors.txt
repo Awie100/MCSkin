@@ -1,0 +1,5 @@
+B&W,#ffffff,#000000
+Tiger,#ff9900,#000000
+Creeper,#00bb00,#00ff00
+B&O,#ff9900,#0000ff
+DARKMODE,#000000,#333333
